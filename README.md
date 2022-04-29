@@ -52,3 +52,15 @@ git remote add origin repository_url
 git push -u origin master
 
 ```
+
+### Git Branching
+
+- Branching is a way to divide your code into different versions.
+
+```
+git branch
+git checkout -b new_branch_name
+git checkout master
+git checkout new_branch_name
+
+```
