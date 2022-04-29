@@ -64,3 +64,22 @@ git checkout master
 git checkout new_branch_name
 
 ```
+
+-To delete a branch
+
+```
+git branch -d new_branch_name
+
+```
+
+```
+git commit -am "add new file"
+
+```
+
+- To undo commits
+
+```
+git reset 
+
+```
