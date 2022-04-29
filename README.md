@@ -30,6 +30,25 @@
 
 ```
 git add .
-gir commit -m "title message" -m "description message"
+git commit -m "title message" -m "description message"
+git push origin master
+
+```
+
+- Connecting local machine to remote repository
+
+```
+ssh-keygen -t rsa -b 4096 -C "email@example.com"
+ls | grep testkey
+
+```
+
+- Git repo locally
+
+```
+git init
+git commit -m "title message" -m "description message"
+git remote add origin repository_url
+git push -u origin master
 
 ```
