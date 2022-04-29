@@ -1,1 +1,29 @@
-# git-learning
+# GIT
+
+#### what is git?
+- Free and open source version control sysytem.
+
+#### What is version control ?
+- The management od changes to documents, computer program, large web sites , and other collections of information.
+
+
+## Git commands
+
+- clone
+- add (Track new files and changes in git)
+- commit (Record changes to the repository)
+- push (Send all the changes to the remote repository)
+- pull (Get the changes from the remote repository)
+- status (Show the status of the repository)
+- branch (Create and manage branches)
+- checkout (Switch to a different branch)
+- merge (Merge two branches)
+- rebase (Move commits from one branch to another)
+- diff (Compare two versions of a file)
+- log (Show the history of a file)
+- remote (Manage remote repositories)
+- stash (Stash changes)
+- reset (Reset the repository)
+- fetch (Get updates from remote repository)
+- tag (Create and manage tags)
+
