@@ -9,7 +9,7 @@
 
 ## Git commands
 
-- clone
+- clone (cloning repository)
 - add (Track new files and changes in git)
 - commit (Record changes to the repository)
 - push (Send all the changes to the remote repository)
@@ -27,3 +27,9 @@
 - fetch (Get updates from remote repository)
 - tag (Create and manage tags)
 
+
+```
+git add .
+gir commit -m "title message" -m "description message"
+
+```
